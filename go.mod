@@ -1,4 +1,4 @@
-module mongo
+module github.com/dustinevan/mongo
 
 go 1.16
 

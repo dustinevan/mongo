@@ -8,7 +8,7 @@ import (
 	"go.mongodb.org/mongo-driver/bson/primitive"
 	mongodb "go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
-	"mongo/bsoncv"
+	"github.com/dustinevan/mongo/bsoncv"
 )
 
 var json = jsoniter.ConfigCompatibleWithStandardLibrary
